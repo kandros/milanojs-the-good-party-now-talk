@@ -1,0 +1,12 @@
+{
+  "name": "http-node-example",
+  "version": "1.0.0",
+  "description": "http native module server example",
+  "main": "index.js",
+  "repository": "https://github.com/kandros/http-node-example",
+  "author": "jaga santagostiono <jagasantagostino@gmail.com>",
+  "license": "MIT",
+  "scripts": { 
+   "start": "node index.js"
+  }
+}
